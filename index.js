@@ -31,5 +31,8 @@
     return number -= 1
   }
   
-  function
+  function makeInt(n)
+  {
+    return parseInt("n")
+  }
   
